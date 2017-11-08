@@ -1,0 +1,42 @@
+
+<form id="1448756973">
+<property name="name" value="it.redhat.demo.stubborn-rest-client-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="method" type="InputText" id="103135453">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;method (method)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="method"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="url" type="InputText" id="1967893170">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;url (url)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="url"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="content" type="InputTextArea" id="725089912">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;contentquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="content"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#0000A0" type="className" outId="content" value="java.lang.Object" id="content"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="contentType" value="java.lang.String" id="contentType"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="delayAttempts" value="java.lang.String" id="delayAttempts"/>
+<dataHolder inputId="" name="#FBB767" type="className" outId="exception" value="java.lang.Exception" id="exception"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="initialDelayInSeconds" value="java.lang.Integer" id="initialDelayInSeconds"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="maxAttempts" value="java.lang.Integer" id="maxAttempts"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="method" value="java.lang.String" id="method"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="numAttempts" value="java.lang.Integer" id="numAttempts"/>
+<dataHolder inputId="" name="#E9E371" type="className" outId="result" value="java.lang.Object" id="result"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="resultClass" value="java.lang.String" id="resultClass"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="status" value="java.lang.Integer" id="status"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="statusMsg" value="java.lang.String" id="statusMsg"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="url" value="java.lang.String" id="url"/>
+</form>
